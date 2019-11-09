@@ -1,0 +1,7 @@
+com\ahani\ssm\domain\Role.class
+com\ahani\ssm\domain\Product.class
+com\ahani\ssm\domain\UserInfo.class
+com\ahani\ssm\domain\Member.class
+com\ahani\ssm\domain\Traveller.class
+com\ahani\ssm\domain\Permission.class
+com\ahani\ssm\domain\Orders.class
