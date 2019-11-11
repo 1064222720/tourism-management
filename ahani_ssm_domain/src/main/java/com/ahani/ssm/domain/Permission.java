@@ -3,16 +3,16 @@ package com.ahani.ssm.domain;
 import java.util.List;
 
 public class Permission {
-    private String id;
+    private Integer id;
     private String permissionName;
     private String url;
     private List<Role> roles;
 
-    public String getId() {
+    public Integer getId() {
         return id;
     }
 
-    public void setId(String id) {
+    public void setId(Integer id) {
         this.id = id;
     }
 

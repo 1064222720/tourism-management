@@ -3,17 +3,18 @@ package com.ahani.ssm.domain;
 import java.util.List;
 
 public class Role {
-    private String id;
+    private Integer id;
     private String roleName;
     private String roleDesc;
     private List<Permission> permissions;
     private List<UserInfo> users;
 
-    public String getId() {
+
+    public Integer getId() {
         return id;
     }
 
-    public void setId(String id) {
+    public void setId(Integer id) {
         this.id = id;
     }
 

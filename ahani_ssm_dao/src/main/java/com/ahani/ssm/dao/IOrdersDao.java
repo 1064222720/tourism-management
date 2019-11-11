@@ -19,7 +19,7 @@ public interface IOrdersDao {
             @Result(property = "peopleCount", column = "peopleCount"),
             @Result(property = "payType", column = "payType"),
             @Result(property = "orderDesc", column = "orderDesc"),
-            @Result(property = "product", column = "productId", javaType = Product.class, one = @One(select = "com.ahani.ssm.dao.IProductDao.findById")),
+            @Result(property = "product", column = "productId", javaType = Product.class, one = @One(select = "com.ahani.ssm.dao.IProductDao.findById"))
     })
     public List<Orders> findAll() throws Exception;
 

@@ -4,21 +4,29 @@ import java.util.List;
 
 //与数据库中users对应
 public class UserInfo {
-    private String id;
+    private Integer id;
     private String username;
     private String email;
     private String password;
     private String phoneNum;
-    private int status;
+    private Integer status;
     private String statusStr;
     private List<Role> roles;
 
-    public String getId() {
+    public Integer getId() {
         return id;
     }
 
-    public void setId(String id) {
+    public void setId(Integer id) {
         this.id = id;
+    }
+
+    public Integer getStatus() {
+        return status;
+    }
+
+    public void setStatus(Integer status) {
+        this.status = status;
     }
 
     public String getUsername() {
@@ -53,13 +61,6 @@ public class UserInfo {
         this.phoneNum = phoneNum;
     }
 
-    public int getStatus() {
-        return status;
-    }
-
-    public void setStatus(int status) {
-        this.status = status;
-    }
 
     public String getStatusStr() {
         return statusStr;
