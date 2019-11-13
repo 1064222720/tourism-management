@@ -38,5 +38,5 @@ public interface IOrdersDao {
             @Result(property = "member",column = "memberId",javaType = Member.class,one = @One(select = "com.ahani.ssm.dao.IMemberDao.findById")),
             @Result(property = "travellers",column = "id",javaType = List.class,many = @Many(select = "com.ahani.ssm.dao.ITravellerDao.findByOrdersId"))
     })
-    public Orders findById(String ordersId) throws Exception;
+    public Orders findById(Integer ordersId) throws Exception;
 }

@@ -1,57 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2a45bc2-22a2-4f57-af41-cb6857e00aae" name="Default Changelist" comment="新增">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/failer.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/login.jsp" afterDir="false" />
+    <list default="true" id="f2a45bc2-22a2-4f57-af41-cb6857e00aae" name="Default Changelist" comment="新增spring-security">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IOrdersDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IOrdersDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IProductDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IRoleDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IRoleDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IUserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IUserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahani_ssm_dao/target/classes/com/ahani/ssm/dao/IProductDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_dao/target/classes/com/ahani/ssm/dao/IProductDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahani_ssm_dao/target/classes/com/ahani/ssm/dao/IOrdersDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_dao/target/classes/com/ahani/ssm/dao/IOrdersDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahani_ssm_dao/target/classes/com/ahani/ssm/dao/IRoleDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_dao/target/classes/com/ahani/ssm/dao/IRoleDao.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahani_ssm_dao/target/classes/com/ahani/ssm/dao/IUserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_dao/target/classes/com/ahani/ssm/dao/IUserDao.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahani_ssm_dao/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_dao/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahani_ssm_dao/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_dao/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahani_ssm_dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahani_ssm_dao/target/ssm_dao-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_dao/target/ssm_dao-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahani_ssm_domain/src/main/java/com/ahani/ssm/domain/Permission.java" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_domain/src/main/java/com/ahani/ssm/domain/Permission.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahani_ssm_domain/src/main/java/com/ahani/ssm/domain/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_domain/src/main/java/com/ahani/ssm/domain/Role.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahani_ssm_domain/src/main/java/com/ahani/ssm/domain/UserInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_domain/src/main/java/com/ahani/ssm/domain/UserInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahani_ssm_domain/target/classes/com/ahani/ssm/domain/Permission.class" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_domain/target/classes/com/ahani/ssm/domain/Permission.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahani_ssm_domain/target/classes/com/ahani/ssm/domain/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_domain/target/classes/com/ahani/ssm/domain/Role.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahani_ssm_domain/target/classes/com/ahani/ssm/domain/UserInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_domain/target/classes/com/ahani/ssm/domain/UserInfo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahani_ssm_domain/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_domain/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahani_ssm_domain/target/ssm_domain-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_domain/target/ssm_domain-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/IOrdersService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/IOrdersService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/IUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/IUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/impl/OrdersServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/impl/OrdersServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/impl/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/impl/ProductServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahani_ssm_service/target/classes/com/ahani/ssm/service/IOrdersService.class" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_service/target/classes/com/ahani/ssm/service/IOrdersService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahani_ssm_service/target/classes/com/ahani/ssm/service/IUserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_service/target/classes/com/ahani/ssm/service/IUserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahani_ssm_service/target/classes/com/ahani/ssm/service/impl/OrdersServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_service/target/classes/com/ahani/ssm/service/impl/OrdersServiceImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahani_ssm_service/target/classes/com/ahani/ssm/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_service/target/classes/com/ahani/ssm/service/impl/UserServiceImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahani_ssm_service/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_service/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahani_ssm_service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahani_ssm_service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahani_ssm_service/target/ssm_service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_service/target/ssm_service-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahani_ssm_utils/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_utils/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahani_ssm_utils/target/ssm_utils-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_utils/target/ssm_utils-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahani_ssm_web/src/main/java/com/ahani/ssm/controller/OrdersController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_web/src/main/java/com/ahani/ssm/controller/OrdersController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahani_ssm_web/target/classes/com/ahani/ssm/controller/OrdersController.class" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_web/target/classes/com/ahani/ssm/controller/OrdersController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahani_ssm_web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahani_ssm_web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahani_ssm_web/target/ssm_web.war" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_web/target/ssm_web.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahani_ssm_web/target/ssm_web/WEB-INF/classes/com/ahani/ssm/controller/OrdersController.class" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_web/target/ssm_web/WEB-INF/classes/com/ahani/ssm/controller/OrdersController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahani_ssm_web/target/ssm_web/WEB-INF/lib/ssm_dao-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_web/target/ssm_web/WEB-INF/lib/ssm_dao-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahani_ssm_web/target/ssm_web/WEB-INF/lib/ssm_domain-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_web/target/ssm_web/WEB-INF/lib/ssm_domain-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahani_ssm_web/target/ssm_web/WEB-INF/lib/ssm_service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_web/target/ssm_web/WEB-INF/lib/ssm_service-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ahani_ssm_web/target/ssm_web/WEB-INF/lib/ssm_utils-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_web/target/ssm_web/WEB-INF/lib/ssm_utils-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahani_ssm_web/target/ssm_web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ahani_ssm_web/target/ssm_web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahani_ssm_web/target/tomcat/conf/logging.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahani_ssm_web/target/tomcat/conf/tomcat-users.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahani_ssm_web/target/tomcat/conf/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahani_ssm_web/target/tomcat/logs/access_log.2019-11-09" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahani_ssm_web/target/tomcat/work/Tomcat/localhost/ssm_web/org/apache/jsp/index_jsp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahani_ssm_web/target/tomcat/work/Tomcat/localhost/ssm_web/org/apache/jsp/index_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahani_ssm_web/target/tomcat/work/Tomcat/localhost/ssm_web/org/apache/jsp/pages/aside_jsp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahani_ssm_web/target/tomcat/work/Tomcat/localhost/ssm_web/org/apache/jsp/pages/aside_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahani_ssm_web/target/tomcat/work/Tomcat/localhost/ssm_web/org/apache/jsp/pages/header_jsp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahani_ssm_web/target/tomcat/work/Tomcat/localhost/ssm_web/org/apache/jsp/pages/header_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahani_ssm_web/target/tomcat/work/Tomcat/localhost/ssm_web/org/apache/jsp/pages/main_jsp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahani_ssm_web/target/tomcat/work/Tomcat/localhost/ssm_web/org/apache/jsp/pages/main_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahani_ssm_web/target/tomcat/work/Tomcat/localhost/ssm_web/org/apache/jsp/pages/orders_002dpage_002dlist_jsp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahani_ssm_web/target/tomcat/work/Tomcat/localhost/ssm_web/org/apache/jsp/pages/orders_002dpage_002dlist_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahani_ssm_web/target/tomcat/work/Tomcat/localhost/ssm_web/org/apache/jsp/pages/product_002dadd_jsp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahani_ssm_web/target/tomcat/work/Tomcat/localhost/ssm_web/org/apache/jsp/pages/product_002dadd_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahani_ssm_web/target/tomcat/work/Tomcat/localhost/ssm_web/org/apache/jsp/pages/product_002dlist1_jsp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ahani_ssm_web/target/tomcat/work/Tomcat/localhost/ssm_web/org/apache/jsp/pages/product_002dlist1_jsp.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -77,90 +67,107 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/resources/spring-security.xml">
+        <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/java/com/ahani/ssm/controller/PermissionController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="421">
+              <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/pages/permission-show.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2772" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/pages/permission-add.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="449">
+              <caret line="108" column="56" selection-start-line="108" selection-start-column="56" selection-end-line="108" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ahani_ssm_domain/src/main/java/com/ahani/ssm/domain/Permission.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/IPermissionService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/login.jsp">
+        <entry file="file://$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/impl/PermissionServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="88" column="7" selection-start-line="88" selection-start-column="7" selection-end-line="88" selection-end-column="7" />
+            <state relative-caret-position="379">
+              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/index.jsp">
+        <entry file="file://$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IRoleDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="378">
+              <caret line="21" column="48" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/failer.jsp">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IProductDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/WEB-INF/web.xml">
+        <entry file="file://$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IPermissionDao.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
-              <caret line="50" column="64" selection-start-line="50" selection-start-column="64" selection-end-line="50" selection-end-column="64" />
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.2.RELEASE/spring-web-5.0.2.RELEASE-sources.jar!/org/springframework/web/filter/DelegatingFilterProxy.java">
+        <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/pages/user-list.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="248" column="16" selection-start-line="248" selection-start-column="16" selection-end-line="248" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.2.RELEASE/spring-web-5.0.2.RELEASE-sources.jar!/org/springframework/web/filter/GenericFilterBean.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="80" column="59" selection-start-line="80" selection-start-column="59" selection-end-line="80" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/pages/aside.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="59" column="81" lean-forward="true" selection-start-line="59" selection-start-column="81" selection-end-line="59" selection-end-column="81" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/pages/header.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="40" column="71" lean-forward="true" selection-start-line="40" selection-start-column="71" selection-end-line="40" selection-end-column="71" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/impl/UserServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="676">
+              <caret line="176" column="38" selection-start-line="176" selection-start-column="38" selection-end-line="176" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -170,9 +177,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jsp File" />
         <option value="Interface" />
         <option value="Class" />
-        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -204,29 +211,39 @@
         <option value="$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/pages/product-list1.jsp" />
         <option value="$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/IProductService.java" />
-        <option value="$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/impl/ProductServiceImpl.java" />
         <option value="$PROJECT_DIR$/ahani_ssm_web/src/main/java/com/ahani/ssm/controller/ProductController.java" />
         <option value="$PROJECT_DIR$/ahani_ssm_domain/src/main/java/com/ahani/ssm/domain/Product.java" />
         <option value="$PROJECT_DIR$/ahani_ssm_domain/src/main/java/com/ahani/ssm/domain/IUserDao.java" />
-        <option value="$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/IOrdersService.java" />
-        <option value="$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IRoleDao.java" />
         <option value="$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IMemberDao.java" />
-        <option value="$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/impl/OrdersServiceImpl.java" />
         <option value="$PROJECT_DIR$/ahani_ssm_web/src/main/resources/db.properties" />
-        <option value="$PROJECT_DIR$/ahani_ssm_web/src/main/java/com/ahani/ssm/controller/OrdersController.java" />
         <option value="$PROJECT_DIR$/ahani_ssm_domain/src/main/java/com/ahani/ssm/domain/Orders.java" />
         <option value="$PROJECT_DIR$/ahani_ssm_domain/src/main/java/com/ahani/ssm/domain/Member.java" />
         <option value="$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/ITravellerDao.java" />
-        <option value="$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IOrdersDao.java" />
         <option value="$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IProductDao.java" />
-        <option value="$PROJECT_DIR$/ahani_ssm_domain/src/main/java/com/ahani/ssm/domain/UserInfo.java" />
         <option value="$PROJECT_DIR$/ahani_ssm_domain/src/main/java/com/ahani/ssm/domain/Role.java" />
         <option value="$PROJECT_DIR$/ahani_ssm_domain/src/main/java/com/ahani/ssm/domain/Permission.java" />
         <option value="$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/login.jsp" />
-        <option value="$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IUserDao.java" />
-        <option value="$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/impl/ProductServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ahani_ssm_domain/src/main/java/com/ahani/ssm/domain/UserInfo.java" />
         <option value="$PROJECT_DIR$/ahani_ssm_web/src/main/resources/spring-security.xml" />
+        <option value="$PROJECT_DIR$/ahani_ssm_web/src/main/java/com/ahani/ssm/controller/OrdersController.java" />
+        <option value="$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/IOrdersService.java" />
+        <option value="$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/IUserService.java" />
+        <option value="$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IUserDao.java" />
+        <option value="$PROJECT_DIR$/ahani_ssm_web/src/main/java/com/ahani/ssm/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/impl/OrdersServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IOrdersDao.java" />
+        <option value="$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/pages/user-show.jsp" />
+        <option value="$PROJECT_DIR$/ahani_ssm_web/src/main/java/com/ahani/ssm/controller/RoleController.java" />
+        <option value="$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IRoleDao.java" />
+        <option value="$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/impl/RoleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/IRoleService.java" />
+        <option value="$PROJECT_DIR$/ahani_ssm_web/src/main/java/com/ahani/ssm/controller/PermissionController.java" />
+        <option value="$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/IPermissionService.java" />
+        <option value="$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/impl/PermissionServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IPermissionDao.java" />
       </list>
     </option>
   </component>
@@ -234,7 +251,6 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="mavenHome" value="D:/BaiduNetdiskDownload/apache-maven-3.5.2" />
-        <option name="workOffline" value="true" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -269,10 +285,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-256" />
-    <option name="y" value="12" />
-    <option name="width" value="1088" />
-    <option name="height" value="848" />
+    <option name="x" value="-259" />
+    <option name="y" value="10" />
+    <option name="width" value="1090" />
+    <option name="height" value="850" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -688,7 +704,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ahani_ssm_web/src/main/webapp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/pages" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -698,11 +714,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\YIDtubeil\IdeaProjects\ahani_ssm\ahani_ssm_web\src\main\webapp\pages" />
       <recent name="C:\Users\YIDtubeil\IdeaProjects\ahani_ssm\ahani_ssm_web\src\main\webapp" />
       <recent name="C:\Users\YIDtubeil\IdeaProjects\ahani_ssm\ahani_ssm_web\src\main\java\com\ahani\ssm\controller" />
       <recent name="C:\Users\YIDtubeil\IdeaProjects\ahani_ssm\ahani_ssm_dao\src\main\java\com\ahani\ssm\dao" />
       <recent name="C:\Users\YIDtubeil\IdeaProjects\ahani_ssm\ahani_ssm_service\src\main\java\com\ahani\ssm\service\impl" />
-      <recent name="C:\Users\YIDtubeil\IdeaProjects\ahani_ssm\ahani_ssm_service\src\main\java\com\ahani\ssm\service" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -741,19 +757,40 @@
       <workItem from="1573367153461" duration="289000" />
       <workItem from="1573367476281" duration="10423000" />
       <workItem from="1573461669466" duration="2854000" />
-      <workItem from="1573467999554" duration="10401000" />
+      <workItem from="1573467999554" duration="16829000" />
+      <workItem from="1573519173188" duration="4819000" />
+      <workItem from="1573524843916" duration="1574000" />
+      <workItem from="1573540100551" duration="4504000" />
+      <workItem from="1573560957669" duration="5018000" />
+      <workItem from="1573619816583" duration="2138000" />
     </task>
+    <task id="LOCAL-00001" summary="新增spring-security">
+      <created>1573481091364</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573481091364</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70624000" />
+    <option name="totallyTimeSpent" value="95105000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.34679666" visible="true" weight="0.18123667" />
-      <window_info active="true" id="Structure" order="1" sideWeight="0.65320337" side_tool="true" visible="true" weight="0.18123667" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.87055016" visible="true" weight="0.21375267" />
+      <window_info id="Structure" order="1" sideWeight="0.12944984" side_tool="true" visible="true" weight="0.21375267" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -762,23 +799,23 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22125813" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.27223426" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Spring" order="6" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="bottom" id="Messages" order="14" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.29284164" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.10927505" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.14925373" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" />
@@ -823,287 +860,14 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="新增spring-security" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增spring-security" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/pages/orders-show.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="121" column="81" selection-start-line="121" selection-start-column="81" selection-end-line="121" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_domain/src/main/java/com/ahani/ssm/domain/Traveller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="95" column="13" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/ITravellerDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="82" selection-start-line="10" selection-start-column="82" selection-end-line="10" selection-end-column="82" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/impl/ProductServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitattributes">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="139" column="36" selection-start-line="139" selection-start-column="36" selection-end-line="139" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="50" selection-end-column="19" />
-          <folding>
-            <element signature="e#1291#1307#0" expanded="true" />
-            <element signature="e#1350#1363#0" expanded="true" />
-            <element signature="e#1465#1483#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/pages/orders-list.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2667">
-          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/java/com/ahani/ssm/controller/OrdersController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.1.2/pagehelper-5.1.2-sources.jar!/com/github/pagehelper/PageInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-600">
-          <caret line="108" column="46" selection-start-line="108" selection-start-column="46" selection-end-line="108" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/pages/orders-page-list.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1523">
-          <caret line="244" column="61" selection-start-line="244" selection-start-column="61" selection-end-line="244" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_domain/src/main/java/com/ahani/ssm/domain/Orders.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2163">
-          <caret line="103" selection-start-line="103" selection-end-line="103" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_domain/src/main/java/com/ahani/ssm/domain/Role.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_domain/src/main/java/com/ahani/ssm/domain/Permission.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-151">
-          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/pages/product-list.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5271">
-          <caret line="251" column="58" selection-start-line="251" selection-start-column="58" selection-end-line="251" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/pages/product-add.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IProductDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IMemberDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_domain/src/main/java/com/ahani/ssm/domain/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-76">
-          <caret line="381" column="29" selection-start-line="381" selection-start-column="29" selection-end-line="381" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="353" column="23" selection-start-line="353" selection-start-column="23" selection-end-line="353" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="747" selection-start-line="747" selection-end-line="747" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="441" selection-start-line="441" selection-end-line="441" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="1073" selection-start-line="1073" selection-end-line="1073" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.1.RELEASE/spring-security-core-5.0.1.RELEASE-sources.jar!/org/springframework/security/core/userdetails/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1911">
-          <caret line="124" column="16" selection-start-line="124" selection-start-column="16" selection-end-line="124" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/IProductService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.1.RELEASE/spring-security-core-5.0.1.RELEASE-sources.jar!/org/springframework/security/core/GrantedAuthority.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.1.RELEASE/spring-security-core-5.0.1.RELEASE-sources.jar!/org/springframework/security/access/vote/AffirmativeBased.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="83" column="18" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IRoleDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="98" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="98" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IOrdersDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.1.RELEASE/spring-security-core-5.0.1.RELEASE-sources.jar!/org/springframework/security/core/authority/SimpleGrantedAuthority.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="89">
           <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_domain/src/main/java/com/ahani/ssm/domain/UserInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="72" column="30" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/IOrdersService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IUserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/java/com/ahani/ssm/controller/ProductController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1114,96 +878,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/IUserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/resources/spring-mvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/impl/OrdersServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/pages/product-list1.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2079">
           <caret line="330" column="45" selection-start-line="330" selection-start-column="45" selection-end-line="330" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_domain/src/main/java/com/ahani/ssm/domain/Member.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-298">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/resources/spring-security.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="88" column="7" selection-start-line="88" selection-start-column="7" selection-end-line="88" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/failer.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/pages/aside.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="59" column="81" lean-forward="true" selection-start-line="59" selection-start-column="81" selection-end-line="59" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/pages/header.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="40" column="71" lean-forward="true" selection-start-line="40" selection-start-column="71" selection-end-line="40" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="50" column="64" selection-start-line="50" selection-start-column="64" selection-end-line="50" selection-end-column="64" />
         </state>
       </provider>
     </entry>
@@ -1218,6 +896,382 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
           <caret line="248" column="16" selection-start-line="248" selection-start-column="16" selection-end-line="248" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/pages/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="40" column="71" selection-start-line="40" selection-start-column="71" selection-end-line="40" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/failer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4326">
+          <caret line="206" column="60" selection-start-line="206" selection-start-column="60" selection-end-line="206" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="88" column="7" selection-start-line="88" selection-start-column="7" selection-end-line="88" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="50" column="60" selection-start-line="50" selection-start-column="60" selection-end-line="50" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_domain/src/main/java/com/ahani/ssm/domain/Traveller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_domain/src/main/java/com/ahani/ssm/domain/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_domain/src/main/java/com/ahani/ssm/domain/Orders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2100">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_domain/src/main/java/com/ahani/ssm/domain/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IOrdersDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_domain/src/main/java/com/ahani/ssm/domain/UserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-892">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/IUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/IOrdersService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="73" column="48" selection-start-line="73" selection-start-column="48" selection-end-line="73" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/impl/OrdersServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_utils/src/main/java/com/ahani/ssm/utils/DateUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/java/com/ahani/ssm/controller/OrdersController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="45" column="42" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/resources/spring-security.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="47" column="43" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/pages/user-add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2898">
+          <caret line="138" column="22" selection-start-line="138" selection-start-column="22" selection-end-line="138" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/IProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/pages/product-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/java/com/ahani/ssm/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/pages/role-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3297">
+          <caret line="157" column="40" selection-start-line="157" selection-start-column="40" selection-end-line="157" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/pages/role-add.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_domain/src/main/java/com/ahani/ssm/domain/Role.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/impl/ProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/impl/RoleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/IRoleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/java/com/ahani/ssm/controller/RoleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/java/com/ahani/ssm/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/pages/aside.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="43" column="75" selection-start-line="43" selection-start-column="65" selection-end-line="43" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/pages/user-role-add.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IUserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/pages/permission-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3213" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/pages/user-show.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="141" column="59" selection-start-line="141" selection-start-column="59" selection-end-line="141" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/pages/permission-show.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2772" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/pages/permission-add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="108" column="56" selection-start-line="108" selection-start-column="56" selection-end-line="108" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/java/com/ahani/ssm/controller/PermissionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/IPermissionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_service/src/main/java/com/ahani/ssm/service/impl/PermissionServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_domain/src/main/java/com/ahani/ssm/domain/Permission.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IRoleDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="48" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IProductDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_dao/src/main/java/com/ahani/ssm/dao/IPermissionDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahani_ssm_web/src/main/webapp/pages/user-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="176" column="38" selection-start-line="176" selection-start-column="38" selection-end-line="176" selection-end-column="38" />
         </state>
       </provider>
     </entry>

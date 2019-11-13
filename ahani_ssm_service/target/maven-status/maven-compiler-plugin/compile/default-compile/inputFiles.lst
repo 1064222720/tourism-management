@@ -2,5 +2,9 @@ C:\Users\YIDtubeil\IdeaProjects\ahani_ssm\ahani_ssm_service\src\main\java\com\ah
 C:\Users\YIDtubeil\IdeaProjects\ahani_ssm\ahani_ssm_service\src\main\java\com\ahani\ssm\service\impl\ProductServiceImpl.java
 C:\Users\YIDtubeil\IdeaProjects\ahani_ssm\ahani_ssm_service\src\main\java\com\ahani\ssm\service\IProductService.java
 C:\Users\YIDtubeil\IdeaProjects\ahani_ssm\ahani_ssm_service\src\main\java\com\ahani\ssm\service\impl\OrdersServiceImpl.java
+C:\Users\YIDtubeil\IdeaProjects\ahani_ssm\ahani_ssm_service\src\main\java\com\ahani\ssm\service\IPermissionService.java
 C:\Users\YIDtubeil\IdeaProjects\ahani_ssm\ahani_ssm_service\src\main\java\com\ahani\ssm\service\IUserService.java
+C:\Users\YIDtubeil\IdeaProjects\ahani_ssm\ahani_ssm_service\src\main\java\com\ahani\ssm\service\impl\RoleServiceImpl.java
+C:\Users\YIDtubeil\IdeaProjects\ahani_ssm\ahani_ssm_service\src\main\java\com\ahani\ssm\service\IRoleService.java
 C:\Users\YIDtubeil\IdeaProjects\ahani_ssm\ahani_ssm_service\src\main\java\com\ahani\ssm\service\impl\UserServiceImpl.java
+C:\Users\YIDtubeil\IdeaProjects\ahani_ssm\ahani_ssm_service\src\main\java\com\ahani\ssm\service\impl\PermissionServiceImpl.java

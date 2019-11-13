@@ -30,6 +30,4 @@ public class ProductServiceImpl implements IProductService {
     public void save(Product product) throws Exception {
         iProductDao.save(product);
     }
-
-
 }

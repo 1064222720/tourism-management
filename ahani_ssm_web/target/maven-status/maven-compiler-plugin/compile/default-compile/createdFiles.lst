@@ -1,2 +1,5 @@
+com\ahani\ssm\controller\RoleController.class
 com\ahani\ssm\controller\OrdersController.class
 com\ahani\ssm\controller\ProductController.class
+com\ahani\ssm\controller\UserController.class
+com\ahani\ssm\controller\PermissionController.class

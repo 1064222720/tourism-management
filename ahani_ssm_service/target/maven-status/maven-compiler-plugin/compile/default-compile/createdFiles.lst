@@ -1,6 +1,10 @@
-com\ahani\ssm\service\impl\OrdersServiceImpl.class
-com\ahani\ssm\service\impl\ProductServiceImpl.class
+com\ahani\ssm\service\IRoleService.class
 com\ahani\ssm\service\impl\UserServiceImpl.class
-com\ahani\ssm\service\IOrdersService.class
 com\ahani\ssm\service\IProductService.class
+com\ahani\ssm\service\impl\RoleServiceImpl.class
 com\ahani\ssm\service\IUserService.class
+com\ahani\ssm\service\impl\OrdersServiceImpl.class
+com\ahani\ssm\service\impl\PermissionServiceImpl.class
+com\ahani\ssm\service\impl\ProductServiceImpl.class
+com\ahani\ssm\service\IOrdersService.class
+com\ahani\ssm\service\IPermissionService.class

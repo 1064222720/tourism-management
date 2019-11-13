@@ -26,7 +26,7 @@ public class OrdersServiceImpl implements IOrdersService {
     }
 
     @Override
-    public Orders findById(String ordersId) throws Exception{
+    public Orders findById(Integer ordersId) throws Exception{
         return ordersDao.findById(ordersId);
     }
 }
