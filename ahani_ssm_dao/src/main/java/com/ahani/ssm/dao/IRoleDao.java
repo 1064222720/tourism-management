@@ -23,4 +23,11 @@ public interface IRoleDao {
 
     @Insert("insert into role(roleName,roleDesc) values(#{roleName},#{roleDesc})")
     void save(Role role) throws Exception;
+
+
+    @Select("select * from role where id=#{roleId}")
+    Role findById(Integer roleId) throws Exception;
+
+    @Insert("insert into role_permission (roleId,permissionId) value (#{roleId},#{permissionId})")
+    void addPermissionToRole(@Param("roleId") Integer roleId, @Param("permissionId") Integer permissionId) throws Exception;
 }

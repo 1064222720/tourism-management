@@ -5,6 +5,7 @@ import com.ahani.ssm.dao.IUserDao;
 import com.ahani.ssm.domain.Role;
 import com.ahani.ssm.domain.UserInfo;
 import com.ahani.ssm.service.IUserService;
+import org.apache.ibatis.annotations.Insert;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.User;
@@ -73,5 +74,17 @@ public class UserServiceImpl implements IUserService {
     public UserInfo findById(Integer id) throws Exception {
         UserInfo userInfo = iUserDao.findById(id);
         return userInfo;
+    }
+
+    @Override
+    public List<Role> findOtherRoles(Integer id) throws Exception {
+        return iUserDao.findOtherRoles(id);
+    }
+
+    @Override
+    public void addRoleToUser(Integer userId, Integer[] roleIds) {
+        for (Integer roleId:roleIds) {
+            iUserDao.addRoleToUser(userId,roleId);
+        }
     }
 }

@@ -1,5 +1,6 @@
 package com.ahani.ssm.service;
 
+import com.ahani.ssm.domain.Role;
 import com.ahani.ssm.domain.UserInfo;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetailsService;
@@ -14,4 +15,8 @@ public interface IUserService extends UserDetailsService {
     void save(UserInfo userInfo) throws Exception;
 
     UserInfo findById(Integer id) throws Exception;
+
+    List<Role> findOtherRoles(Integer id) throws Exception;
+
+    void addRoleToUser(Integer userId, Integer[] roleIds);
 }
